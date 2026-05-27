@@ -1,0 +1,17 @@
+{
+  "id": "Buffer/PI6C5946002ZH:PI6C5946002ZH",
+  "name": "PI6C5946002ZH",
+  "library": "Buffer",
+  "file": "Buffer.kicad_symdir/PI6C5946002ZH.kicad_sym",
+  "description": "6 GHz / 12 Gbps Clock / Data 1:2 Fanout Buffer with Internal Termination, TQFN-16",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/PI6C5946002.pdf",
+  "keywords": "buffer clock data",
+  "footprint": "Package_DFN_QFN:TQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-buffer@master/parts/PI6C5946002ZH/",
+  "part_path": "parts/PI6C5946002ZH",
+  "symbol_file": "parts/PI6C5946002ZH/PI6C5946002ZH.kicad_sym",
+  "source_library": "Buffer.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:43:45.080Z"
+}

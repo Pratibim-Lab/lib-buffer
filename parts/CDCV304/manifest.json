@@ -1,0 +1,17 @@
+{
+  "id": "Buffer/CDCV304:CDCV304",
+  "name": "CDCV304",
+  "library": "Buffer",
+  "file": "Buffer.kicad_symdir/CDCV304.kicad_sym",
+  "description": "0-200 MHz 1:4 Clock Buffer, PCI-X Compliant, TSSOP-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/cdcv304.pdf",
+  "keywords": "texas quadruple",
+  "footprint": "Package_SO:TSSOP-8_4.4x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-buffer@master/parts/CDCV304/",
+  "part_path": "parts/CDCV304",
+  "symbol_file": "parts/CDCV304/CDCV304.kicad_sym",
+  "source_library": "Buffer.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:43:44.030Z"
+}
